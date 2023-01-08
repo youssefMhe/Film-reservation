@@ -1,8 +1,8 @@
 node_modules/
-../../../Downloads/app/expo/ex/.expo/
-dist/
 npm-debug.*
 *.jks
+#in our .gitignore file
+.env
 *.p8
 *.p12
 *.key
